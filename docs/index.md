@@ -1,7 +1,12 @@
 # Read Frame
 
-Read Frame is an app to help people read. Less clutter means better focus.
+Less clutter means better focus.
 
+Read Frame is a simple app to help people read. By showing less text, readers can focus on the current line.
+
+Paste text into Read Frame and change the view to fit your needs.
+
+All content stays on the device and can be used offline.
 
 ## Features
 
