@@ -1,0 +1,1 @@
+Read Frame is an app to help people read. Less clutter means better focus.
