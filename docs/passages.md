@@ -2,8 +2,8 @@
 
 Two example passages are included in with the app:
 
-- "The North Wind and the Sun," Aesop, roughly 600 BCE
-- "Rain," Robert Louis Stevenson from his 1885 collection *A Child's Garden of Verses*
+- "The North Wind and the Sun" by Aesop, roughly 600 BCE
+- "Rain" by Robert Louis Stevenson from <u>A Child's Garden of Verses</u>, 1885
 
 The public-domain passages below are provided as examples:
 
